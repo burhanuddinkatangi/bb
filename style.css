@@ -1,0 +1,13 @@
+p{ animation-name:fafa ;
+animation-duration: 5s;
+background-color: red;}
+@keyframes fafa{
+    0%{background-color: aquamarine;}
+    40%{background-color: brown;}
+    80%{background-color: burlywood;}
+    100%{background-color: crimson;}
+}
+sup{background:#000 url(https://www.google.com/url?sa=i&url=https%3A%2F%2Funsplash.com%2Fs%2Fphotos%2Fnature&psig=AOvVaw2yqIvVnzsy31O-8SUvC27x&ust=1755440290040000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNjihO7Cj48DFQAAAAAdAAAAABAE);
+ no repeat center center/ cover fixed}
+ h1{background-color: black;
+}
